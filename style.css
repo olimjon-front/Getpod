@@ -1,0 +1,239 @@
+.container{
+    width: 1440px;
+    min-height: 100px;
+    flex-shrink: 0;
+    background-color: aliceblue;
+}
+.navbar{
+    height: 60px;
+}
+.navbar img{
+    margin-left: 40px;
+    width: 131px;
+    height: 40px;
+    flex-shrink: 0
+}
+.navbar p{
+    margin-top: 15px;
+}
+.navbar .btn{
+    margin-right: 50px;
+}
+.box2 h1{
+    margin-left: 65px;
+    margin-top: 150px;
+    color: #12100C;
+    font-size: 60px;
+}
+.box2 p{
+    margin-left: 65px;
+}
+.olimjon{
+    margin-left: 65px;
+    width: 160px;
+    height: 46px;
+    border-radius: 20px;
+    background: #FFAE33;
+}
+.button .men{
+    margin-left: 65px;
+}
+.button img{
+    margin-left: 28px;
+}
+.menu h1{
+    font-size: 60px;
+}
+.menu del{
+    margin-left: 270px;
+    color: #999795;;
+    font-size: 40px;
+}
+.tana{
+    margin-left: -17px;
+    width: 1310px;
+    height: 792px;
+    flex-shrink: 0;
+}
+.for h1{
+    font-size: 50px;
+}
+.for img{
+    margin-left: -15px;
+}
+.for .bredge{
+    font-size: 18px;
+    width: 200px;
+    margin-left: 450px;
+    border-radius: 10px;
+}
+.for button{
+    font-size: 18px;
+    width: 200px;
+    margin-left: 10px;
+    border-radius: 10px;
+}
+.sikl h1{
+    margin-top: 170px;
+    font-size: 54px;
+    text-align: center;
+}
+.sikl img{
+    margin-left: -4px;
+}
+.sikl .itel{
+    margin-left: 70px;
+}
+.start h1{
+    margin-top: 100px;
+    color: #12100C;
+    text-align: center;
+    font-size: 54px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 71.82px; /* 133% */
+}
+.boq{
+    width: 600px;
+    height: 651px;
+    flex-shrink: 0;
+    border-radius: 20px;
+    background: #FFF;
+}
+.boq h3{
+    margin-top: 40px;
+    text-align: center;
+}
+.boq p{
+    color: rgba(18, 16, 12, 0.70);
+    text-align: center;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 31.92px; /* 133% */
+    text-align: center;
+}
+.boq img{
+    margin-top: 70px;
+    margin-left: 170px;
+}
+.boq .gitpod{
+    margin-top: 10px;
+    margin-left: 255px;
+    border-radius: 15px;
+    background: #FFE4BC;
+}
+.boq .prefix{
+    margin-top: 40px;
+    color: rgba(18, 16, 12, 0.70);
+    text-align: center;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 31.92px; /* 133% */
+}
+.boh{
+    width: 600px;
+    height: 651px;
+    flex-shrink: 0;
+    border-radius: 20px;
+    background: #FFF;
+}
+.boh h3{
+    margin-top: 40px;
+    text-align: center;
+    font-size: 32px;
+}
+.boh p{
+    color: rgba(18, 16, 12, 0.70);
+    text-align: center;
+    font-size: 23px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 31.92px; /* 138.783% */
+}
+.img1 .img{
+    margin-top: 10px;
+    margin-left: 50px;
+}
+.img1 .node{
+    margin-top: 11px;
+}
+.img1 .xon{
+    margin-left: 100px;
+    color: white;
+    background-color: #12100C;
+    border-radius: 20px;
+}
+.img2 .img{
+    margin-top: 10px;
+    margin-left: 50px;
+}
+.img2 .node{
+    margin-top: 11px;
+}
+.img2 .xon{
+    margin-left: 212px;
+    color: white;
+    background-color: #12100C;
+    border-radius: 20px;
+}
+.img3 .img{
+    margin-top: 10px;
+    margin-left: 50px;
+}
+.img3 .node{
+    margin-top: 11px;
+}
+.img3 .xon{
+    margin-left: 252px;
+    color: white;
+    background-color: #12100C;
+    border-radius: 20px;
+}
+.img4 .img{
+    margin-top: 10px;
+    margin-left: 50px;
+}
+.img4 .node{
+    margin-top: 11px;
+}
+.img4 .xon{
+    margin-left: 237px;
+    color: white;
+    background-color: #12100C;
+    border-radius: 20px;
+}
+.img5 .img{
+    margin-top: 10px;
+    margin-left: 50px;
+}
+.img5 .node{
+    margin-top: 11px;
+}
+.img5 .xon{
+    margin-left: 237px;
+    color: white;
+    background-color: #12100C;
+    border-radius: 20px;
+}
+.img6 .img{
+    margin-top: 10px;
+    margin-left: 50px;
+}
+.img6 .node{
+    margin-top: 11px;
+}
+.img6 .xon{
+    margin-left: 222px;
+    color: white;
+    background-color: #12100C;
+    border-radius: 20px;
+}
+h5{
+    margin-left: 28px;
+}
+.footer li{
+    margin-top: 5px;
+    color:  #12100CB2;
+}
